@@ -1,0 +1,12 @@
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\bin\Debug\net6.0\ref\Logica.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\obj\Debug\net6.0\ref\Logica.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-Ej4\Console\Logica\obj\Debug\net6.0\Logica.pdb

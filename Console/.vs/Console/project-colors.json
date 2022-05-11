@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4b0c14c-4be6-4f03-85b3-919f5e38696d": {
+      "ProjectGuid": "a4b0c14c-4be6-4f03-85b3-919f5e38696d",
+      "DisplayName": "Consola",
+      "ColorIndex": 0
+    },
+    "e6be7b9c-4604-4268-beb2-1a0ae2a959bd": {
+      "ProjectGuid": "e6be7b9c-4604-4268-beb2-1a0ae2a959bd",
+      "DisplayName": "Logica",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
